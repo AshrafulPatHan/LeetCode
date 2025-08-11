@@ -9,8 +9,11 @@ let array = {
     "e" : 10,
 }
 
+console.log(array["a"]);
+
+
 array = [1,2,5,8,7]
-array = "12358"
+array = "12358fgd"
 
 for (let i = 0; i < array.length; i++) {
     const element = array[i];
