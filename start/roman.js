@@ -29,6 +29,6 @@ var romanToInt = function(s) {
     return total;
 
 };
-let ret = romanToInt("")
+let ret = romanToInt("II")
 console.log(ret);
 
