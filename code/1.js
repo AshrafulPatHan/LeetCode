@@ -10,6 +10,7 @@ let array = {
 }
 
 array = [1,2,5,8,7]
+array = "12358"
 
 for (let i = 0; i < array.length; i++) {
     const element = array[i];
